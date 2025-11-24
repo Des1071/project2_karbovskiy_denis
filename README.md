@@ -24,4 +24,4 @@
 
 ## 🎥 Демонстрация asciinema
 
-[![Demo](https://asciinema.org/a/Sxau5uOCRw9oweySnxzJoyQQb)](https://asciinema.org/a/Sxau5uOCRw9oweySnxzJoyQQb)
+[![Demo](hhttps://asciinema.org/a/SwCyUudXRWRvfHq1GKmEy1eiB)](https://asciinema.org/a/SwCyUudXRWRvfHq1GKmEy1eiB)
